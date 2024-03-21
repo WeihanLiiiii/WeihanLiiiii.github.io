@@ -5,13 +5,13 @@
 
 ---
 
-## 🤵🏻 关于我
+## 🤵🏻 About Me
 
 Blahblah
 
 ---
 
-## 🖥 工作经历
+## 🖥 Work Experience
 
 ### 2019 - 2021
 > Blahblah
@@ -45,7 +45,7 @@ Blahblah
 
 ---
 
-## 🛠 Blahblah
+## 🛠 Tools
 
 Blahblah
 
